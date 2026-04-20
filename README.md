@@ -203,4 +203,4 @@ tmp           Disk      oh noes!
 Acesso confirmado (ADMIN$ permitido).
 
 ## Conclusão
-As atividades demonstram brute force em FTP, web forms e SMB com password spraying, destacando vulnerabilidades em serviços desatualizados. Sempre realize testes em ambientes isolados. Próximas etapas: Mitigações como senhas fortes, rate limiting e monitoramento. [dev](https://dev.to/reginadiana/como-escrever-um-readme-md-sensacional-no-github-4509)
+As atividades demonstram brute force em FTP, web forms e SMB com password spraying, destacando vulnerabilidades em serviços desatualizados.
