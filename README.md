@@ -1,5 +1,4 @@
 #  🌍 Bootcamp Cibersegurança - Atividades Práticas
-[ [
 
 ## Descrição
 Repositório dedicado às anotações e atividades práticas do bootcamp de Cibersegurança. Este README documenta as três primeiras atividades realizadas em ambiente controlado com Kali Linux e Metasploitable2 na VirtualBox. O foco é em ataques de brute force e enumeração SMB, demonstrando vulnerabilidades comuns em serviços como FTP, formulários web e SMB.
